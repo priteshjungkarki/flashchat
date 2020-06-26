@@ -3,5 +3,6 @@
  *.xml linguist-detectable=false
  *.java linguist-detectable=false
  *.Dart linguist-detectable=true
+ *.rb linguist-language=Dart
 
 in the .gitattributes file and push the
