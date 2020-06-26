@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pritesh\\.gradle\\caches\\transforms-2\\files-2.1\\45b1370f451ae4b2aa2d97c095b50db8\\core-1.0.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

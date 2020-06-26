@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306318666247",
+    "firebase_url": "https://flash-chat-738fe.firebaseio.com",
+    "project_id": "flash-chat-738fe",
+    "storage_bucket": "flash-chat-738fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306318666247:android:e4df655f2120233c3b98a2",
+        "android_client_info": {
+          "package_name": "co.ravan.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306318666247-7mbpa6imska34qmvrv5aal3gsbp8247g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-B4aN8TZZoCXIu4I0EQEs3KG35F0A-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306318666247-7mbpa6imska34qmvrv5aal3gsbp8247g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
