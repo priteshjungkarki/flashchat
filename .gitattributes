@@ -1,8 +1,4 @@
- *.js linguist-detectable=false
- *.html linguist-detectable=false
- *.xml linguist-detectable=false
+
  *.java linguist-detectable=false
- *.Dart linguist-detectable=true
- *.rb linguist-language=Dart
 
 in the .gitattributes file and push the
