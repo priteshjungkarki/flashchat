@@ -1,0 +1,6 @@
+*.Dartlinguist-detectable=true
+ *.js linguist-detectable=false
+ *.html linguist-detectable=false
+ *.xml linguist-detectable=false
+
+in the .gitattributes file and push the
